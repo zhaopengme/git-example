@@ -1,4 +1,4 @@
 # git-example
 git example
 
-version 1
+version 2
